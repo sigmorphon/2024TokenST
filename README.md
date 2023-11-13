@@ -1,2 +1,2 @@
 # 2024SegST
-A repo for the 2024 Segmentation Shared Task
+A repo for the SIGMORPHON 2024 Shared Task on Subword Tokenization
