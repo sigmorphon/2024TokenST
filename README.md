@@ -19,7 +19,7 @@ Please open the issues if you have any questions.
 
 The average score of all subtasks will determine the shared task winner. Participant teams may submit as many systems as they want.
 
-## Part 1: Word and Definition
+## Subtask 1: Word and Definition
 At the word level, participants will be asked to classify if a given word and a given definition match semantically: true or false.
 
 ### Data
