@@ -29,3 +29,27 @@ Training and development data are UTF-8-encoded tab-separated values files. Each
     ammo  alternatively placed in genus Martynia  false
 
 
+## Evaluation
+
+We will provide python evaluation scripts, reporting the following evaluation measures:
+
+- TBA
+
+## Submission
+
+Please submit your team's results to khuyagbaatar.b@gmail.com CCing your teammates by TBA (AoE). Each submission should be a .tar.gz or .zip file.
+
+## Timeline (Tentative)
+
+- December 1, 2023: Task website is complete, and accepting registrations to the mailing list
+- January 15, 2024: Data collection is complete, and data is released to participants
+- February 15, 2024: Baseline systems released to participants
+- May 15, 2024: Test data is available for participants
+- May 31, 2024: Final Submissions are due
+- June 3, 2024: Results announced to participants
+- June 22, 2024: System papers due for review
+- July 31, 2024: Reviews back to participants
+- August 15, 2024: CR deadline; task paper due from organizers.
+
+## Organizers
+TBA
