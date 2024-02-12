@@ -1,6 +1,6 @@
 # SIGMORPHON 2024 Shared Task on Subword Tokenization
 
-Subword tokenization is a fundamental preprocessing step for all the state-of-the-art language models and is designed to avoid Out-Of-Vocabulary (OOV) issues by segmenting OOV words into subwords. This shared task asks participants to develop a subword tokenization system and follow this procedure: 
+Subword tokenization is a fundamental preprocessing step for all the state-of-the-art language models. It is designed to avoid Out-Of-Vocabulary (OOV) issues by segmenting OOV words into subwords. This shared task asks participants to develop a subword tokenization system and follow this procedure: 
 
 1.  pre-train baby language models with their tokenizer
 2.  fine-tune your BabyLM on 3-5 subtasks with training and development splits
@@ -9,8 +9,7 @@ Subword tokenization is a fundamental preprocessing step for all the state-of-th
 + ***Subtask 1***: [Word and Definition](https://github.com/sigmorphon/2024TokenST#)
 + ***Subtask 2***: [Word and Word](https://github.com/sigmorphon/2024TokenST#)
 + ***Subtask 3***: [Word and Morphology](https://github.com/sigmorphon/2024TokenST#)
-+ ***Subtask 4***: [TBA](https://github.com/sigmorphon/2024TokenST#)
-+ ***Subtask 5***: [TBA](https://github.com/sigmorphon/2024TokenST#)
++ ***Subtask 4***: [Machine Translation](https://github.com/sigmorphon/2024TokenST#)
 
 Please join our [Google Group TBA] to stay up to date.
 Click here to [register for the task TBA]!
@@ -31,17 +30,17 @@ Training and development data are UTF-8-encoded tab-separated values files. Each
 
 ## Evaluation
 
-We will provide python evaluation scripts, reporting the following evaluation measures:
+We will provide Python evaluation scripts, reporting the following evaluation measures:
 
 - TBA
 
 ## Submission
 
-Please submit your team's results to khuyagbaatar.b@gmail.com CCing your teammates by TBA (AoE). Each submission should be a .tar.gz or .zip file.
+Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teammates by TBA (AoE). Each submission should be a .tar.gz or .zip file.
 
 ## Timeline (Tentative)
 
-- February 15, 2023: Task website is complete, and accepting registrations to the mailing list
+- February 15, 2023: The task website is complete, and accepting registrations to the mailing list
 - March 1, 2024: Data collection is complete, and data is released to participants
 - April 1, 2024: Baseline systems released to participants
 - May 15, 2024: Test data is available for participants
