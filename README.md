@@ -41,9 +41,9 @@ Please submit your team's results to khuyagbaatar.b@gmail.com CCing your teammat
 
 ## Timeline (Tentative)
 
-- December 1, 2023: Task website is complete, and accepting registrations to the mailing list
-- January 15, 2024: Data collection is complete, and data is released to participants
-- February 15, 2024: Baseline systems released to participants
+- February 15, 2023: Task website is complete, and accepting registrations to the mailing list
+- March 1, 2024: Data collection is complete, and data is released to participants
+- April 1, 2024: Baseline systems released to participants
 - May 15, 2024: Test data is available for participants
 - May 31, 2024: Final Submissions are due
 - June 3, 2024: Results announced to participants
