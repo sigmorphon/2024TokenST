@@ -68,13 +68,14 @@ Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teamma
 - August 15, 2024: CR deadline; task paper due from organizers.
 
 ## Organizers
-Khuyagbaatar Batsuren (University of Melbourne)
-Gábor Bella (University of Trento)
-Verna Dankers (University of Edinburgh)
-Tsetsuukhei Delgerkhuu (National University of Mongolia)
-Omri Uzan (Ben-Gurion University of the Negev)
-Zdeněk Žabokrtský (Charles University)
-Jungyeul Park (University of British Columbia)
-Yuval Pinter (Ben-Gurion University of the Negev)
-Ryan Cotterell (ETH Zürich)
-Ekaterina Vylomova (University of Melbourne)
+
+- Khuyagbaatar Batsuren (University of Melbourne)
+- Gábor Bella (University of Trento)
+- Verna Dankers (University of Edinburgh)
+- Tsetsuukhei Delgerkhuu (National University of Mongolia)
+- Omri Uzan (Ben-Gurion University of the Negev)
+- Zdeněk Žabokrtský (Charles University)
+- Jungyeul Park (University of British Columbia)
+- Yuval Pinter (Ben-Gurion University of the Negev)
+- Ryan Cotterell (ETH Zürich)
+- Ekaterina Vylomova (University of Melbourne)
