@@ -52,6 +52,10 @@ We will provide Python evaluation scripts, reporting the following evaluation me
 
 - TBA
 
+## Baseline
+
+TBA
+
 ## Submission
 
 Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teammates by TBA (AoE). Each submission should be a .tar.gz or .zip file.
