@@ -45,6 +45,8 @@ Training and development data are UTF-8-encoded tab-separated values files. Each
     photocopy  mosaic  true
     poorer  proxy  false
 
+## Allowed Data Sources
+For pre-training your baby language models and training your tokenizer, you can only use the 100M word dataset from the [BabyLM Challenge 2023](https://babylm.github.io/archive_2023.html). For training your tokenizer, you can additionally use the English morphological data from the [SIGMORPHON Shared Task 2022 on Morpheme Segmentation](https://github.com/sigmorphon/2022SegmentationST).
 
 ## Evaluation
 
@@ -60,7 +62,7 @@ TBA
 
 Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teammates by TBA (AoE). Each submission should be a .tar.gz or .zip file.
 
-## Timeline (Tentative)
+## Timeline
 
 - April 15, 2023: The task website is complete, and accepting registrations to the mailing list
 - April 22, 2024: Baseline systems released to participants
@@ -72,7 +74,6 @@ Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teamma
 - August 15, 2024: CR deadline; task paper due from organizers.
 
 ## Organizers
-
 - Khuyagbaatar Batsuren (University of Melbourne)
 - Gábor Bella (University of Trento)
 - Verna Dankers (University of Edinburgh)
