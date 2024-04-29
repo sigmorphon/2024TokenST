@@ -57,7 +57,12 @@ We will provide Python evaluation scripts, reporting the following evaluation me
 
 ## Baseline
 
-TBA
+Babylm baselines for WaD subtask.
+
+|   model                |   vocab  |   morph  |   alien  |   vocab     |   morph     |   alien     |   total     |
+|------------------------|----------|----------|----------|-------------|-------------|-------------|-------------|
+|  babylm-roberta-base   |   33.3   |   35.0   |   31.6   |   91.6±0.5  |   61.8±1.2  |   53.2±1.6  |   69.0±0.8  |
+|  ltg-bert-babylm       |   11.5   |   35.9   |   52.0   |   93.1±0.5  |   75.2±0.4  |   72.0±0.9  |   75.8±0.4  |
 
 ## Submission
 
