@@ -83,5 +83,6 @@ Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teamma
 - Zdeněk Žabokrtský (Charles University)
 - Jungyeul Park (University of British Columbia)
 - Yuval Pinter (Ben-Gurion University of the Negev)
+- Vilém Zouhar (ETH Zürich)
 - Ryan Cotterell (ETH Zürich)
 - Ekaterina Vylomova (University of Melbourne)
