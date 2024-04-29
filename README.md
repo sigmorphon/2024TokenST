@@ -58,7 +58,8 @@ We will provide Python evaluation scripts, reporting the following evaluation me
 ## Baseline
 
 Babylm baselines for WaD subtask.
-
+|                        |   subgroups for test split     |               Accuracy                                |
+|------------------------|--------------------------------|-------------|-------------|-------------|-------------|
 |   model                |   vocab  |   morph  |   alien  |   vocab     |   morph     |   alien     |   total     |
 |------------------------|----------|----------|----------|-------------|-------------|-------------|-------------|
 |  babylm-roberta-base   |   33.3   |   35.0   |   31.6   |   91.6±0.5  |   61.8±1.2  |   53.2±1.6  |   69.0±0.8  |
