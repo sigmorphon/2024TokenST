@@ -62,7 +62,15 @@ Babylm baselines for WaD subtask. The first table shows the tokenizer size and h
 |   model                |   tokenizer size  |   vocab         |   morph          |   alien         |
 |------------------------|-------------------|-----------------|------------------|-----------------|
 |   babylm-roberta-base  |   50227           |   1001 (33.3%)  |   1050 (35.0%)   |    949 (31.6%)  |
-|   lgt-bert-babylm      |   16385           |    347 (11.5%)  |    1078 (35.9%)  |   1560 (52.0%)  |
+|   lgt-bert-babylm      |   16385           |    347 (11.5%)  |   1078 (35.9%)   |   1560 (52.0%)  |
+
+The second table shows the test accuracies across three subgroups with total.
+
+|   model                |   vocab     |   morph     |   alien     |   total     |
+|------------------------|-------------|-------------|-------------|-------------|
+|   babylm-roberta-base  |   91.6±0.5  |   61.8±1.2  |   53.2±1.6  |   69.0±0.8  |
+|   lgt-bert-babylm      |   93.1±0.5  |   75.2±0.4  |   72.0±0.9  |   75.8±0.4  |
+
 
 ## Submission
 
