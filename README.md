@@ -57,7 +57,7 @@ We will provide Python evaluation scripts, reporting the following evaluation me
 
 ## Baseline
 
-Babylm baselines for WaD subtask. The first table shows the tokenizer size and how the test split is divided into three subgroups of umLabeller.
+Babylm baselines for WaD subtask. The first table shows the tokenizer size and how the test split is divided into three subgroups of [umLabeller](https://github.com/unimorph/umLabeller).
 
 |   model                |   tokenizer size  |   vocab         |   morph          |   alien         |
 |------------------------|-------------------|-----------------|------------------|-----------------|
