@@ -24,8 +24,8 @@ Classify if a given word and a given definition match semantically.
 ### Data
 Training and development data are UTF-8-encoded tab-separated values files. Each example occupies a single line and consists of the input word, the input definition, and the corresponding output category. The following shows two lines of the training data:
     
-    clerking  the activity of recording business transactions  true
-    ammo  alternatively placed in genus Martynia  false
+    clerking  the activity of recording business transactions  1
+    ammo  alternatively placed in genus Martynia  0
 
 ## Subtask 2: Word and Morphology
 Classify whether a given word contains a given morphology.
@@ -33,8 +33,8 @@ Classify whether a given word contains a given morphology.
 ### Data
 Training and development data are UTF-8-encoded tab-separated values files. Each example occupies a single line and consists of the input word, the input morphology type, and the corresponding output category. The following shows two lines of the training data:
     
-    leaderboard  derivation  true
-    overpressing  compound  false
+    leaderboard  derivation  1
+    overpressing  compound  0
 
 ## Subtask 3: Word and Word
 Classify whether two words in input are semantically related to one another.
@@ -42,8 +42,8 @@ Classify whether two words in input are semantically related to one another.
 ### Data
 Training and development data are UTF-8-encoded tab-separated values files. Each example occupies a single line and consists of two input words, as well as the corresponding output category. The following shows two lines of the training data:
     
-    photocopy  mosaic  true
-    poorer  proxy  false
+    photocopy  mosaic  1
+    poorer  proxy  0
 
 ## Allowed Data Sources
 For pre-training your baby language models and training your tokenizer, you can only use the 100M word dataset from the [BabyLM Challenge 2023](https://babylm.github.io/archive_2023.html). For training your tokenizer, you can additionally use the English morphological data from the [SIGMORPHON Shared Task 2022 on Morpheme Segmentation](https://github.com/sigmorphon/2022SegmentationST). Please note: this morphological data had some noises and we will release a more clean version of this data soon here. 
