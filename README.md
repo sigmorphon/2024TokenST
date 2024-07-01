@@ -12,7 +12,7 @@ Subword tokenization is a fundamental preprocessing step for all the state-of-th
 + <s>***Subtask 4***: [Machine Translation](https://github.com/sigmorphon/2024TokenST#) </s>
 
 Please join our [Google Group](https://groups.google.com/forum/#!forum/sigmorphon-subword-tokenization/join) to stay up to date.
-Click here to [register for the task TBA]!
+Click here to [register for the task](https://forms.gle/TQX2xu6pGrfTW3jt9)!
 
 Please open the issues if you have any questions.
 
