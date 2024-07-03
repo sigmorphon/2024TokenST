@@ -81,10 +81,10 @@ Please submit your team's results to khuyagbaatar.b@gmail.com, CCing your teamma
 - April 15, 2023: The task website is complete, and accepting registrations to the mailing list
 - April 29, 2024: Baseline systems released to participants
 - <s>May 30</s> June 16, 2024: Test data is available for participants
-- <s>June 20</s> June 30, 2024: Final Submissions are due
-- <s>June 30</s> July 5, 2024: Results announced to participants
-- July 21, 2024: System papers due for review
-- July 31, 2024: Reviews back to participants
+- <s>June 30</s> July 14, 2024: Final Submissions are due
+- <s>July 5</s> July 17, 2024: Results announced to participants
+- July 30, 2024: System papers due for review
+- August 5, 2024: Reviews back to participants
 - August 15, 2024: CR deadline; task paper due from organizers.
 
 ## Organizers
